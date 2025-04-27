@@ -1,6 +1,6 @@
 ---
 name: Overview Template
-about: Describe the big picture.
+about: Describe the big picture of what we are building out.
 title: 'Overview | '
 labels: ''
 assignees: ''
