@@ -1,6 +1,6 @@
 ---
 name: Overview Template
-about: Describe the User Story to make creating sub-issues easier.
+about: Describe the big picture.
 title: 'Overview | '
 labels: ''
 assignees: ''
